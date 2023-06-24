@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("demo for Git Hub");
+    printf("DEMO FOR GIT HUB");
     return 1;
 }
